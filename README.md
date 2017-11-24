@@ -1,0 +1,1 @@
+# Spring MVC with Maven and xml config
